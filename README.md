@@ -26,3 +26,5 @@ This project transforms raw Pokémon data into actionable, interactive insights 
 1. **Strength & Rarity Analysis:** Explored the distribution of base stats (HP, Attack, Defense, Speed, etc.) to identify outliers and understand what makes a Pokémon statistically powerful.
 2. **Generational Trends:** Investigated how base combat stats (specifically `Attack` vs. `Special Attack`) have evolved or shifted across different generations.
 3. **Attribute Relationships:** Discovered underlying patterns and correlations between primary/secondary types, legendary status, and overall combat effectiveness.
+
+*This project was developed for learning and portfolio purposes.*
